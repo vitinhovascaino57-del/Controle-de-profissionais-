@@ -1,0 +1,5 @@
+{
+  "name": "Escala de Saídas",
+  "description": "Aplicativo para gerenciar datas de saída de enfermeiros, médicos e condutores com ordenação automática.",
+  "requestFramePermissions": []
+}
